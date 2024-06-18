@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://0v.ink" target="_blank" rel="noopener noreferrer">
-        <img width="100" src="/logo.ipg" alt="12yyyyy logo" />
+    <a href="https://i18.icu" target="_blank" rel="noopener noreferrer">
+        <img width="100" src="/logo.jpg" alt="12yyyyy logo" />
     </a>
 </p>
 
