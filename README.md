@@ -1,3 +1,13 @@
+<p align="center">
+    <a href="https://0v.ink" target="_blank" rel="noopener noreferrer">
+        <img width="100" src="/logo.ipg" alt="12yyyyy logo" />
+    </a>
+</p>
+
+<p align="center"><b>贰耶</b> [ˈ12yyyyy]，耶系-i18n（internationalization）</p>
+
+
+
 
 # i18n
 
