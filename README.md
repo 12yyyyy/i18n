@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://i18.icu" target="_blank" rel="noopener noreferrer">
+    <a href="https://12yyyyy.github.io/i18n/" target="_blank" rel="noopener noreferrer">
         <img width="100" src="/logo.jpg" alt="12yyyyy logo" />
     </a>
 </p>
